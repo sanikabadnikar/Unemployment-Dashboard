@@ -27,4 +27,4 @@ Supported data-driven insights for policy and planning
 Delivered a user-friendly and interactive dashboard that simplifies complex unemployment data into meaningful insights for analysis and decision-making.
 
 🔹Screenshots 
-Example : <img width="1287" height="697" alt="image" src="https://github.com/user-attachments/assets/a8f11916-3551-4adc-bc7c-735946b03103" />
+Example :(https://github.com/sanikabadnikar/Unemployment-Dashboard/blob/main/unemployment_snapshot.PNG)
